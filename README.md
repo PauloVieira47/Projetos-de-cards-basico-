@@ -1,27 +1,23 @@
-# CardsProject
+# 📇 CardsProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+Um projeto básico em Angular para praticar conceitos fundamentais como componentes, comunicação entre eles, e estilização com CSS (Flexbox).
 
-## Development server
+## 🛠️ Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular 17**
+- **TypeScript**
+- **SCSS** (para estilização)
+- **Flexbox** (para layout responsivo)
 
-## Code scaffolding
+## 📦 Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Componente reutilizável de botão personalizado
+- Sistema de cards dinâmicos com diferentes estilos ("orange" e "purple")
+- Interação básica entre componentes com **@Input** e **@Output**
 
-## Build
+## 🤝 Contribuição
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Sinta-se à vontade para abrir issues ou enviar pull requests se desejar melhorar este projeto!
 
-## Running unit tests
+Feito  por [Paulo Vieira](https://github.com/PauloVieira47)!
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
